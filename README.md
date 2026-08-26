@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student passionate about technology, problem-solving, and building software solutions. 
+  I'm a Software Engineering student passionate about technology, problem-solving, and building software solutions. 
 
-I'm always looking for opportunities to learn, grow, and take on new challenges.
+  I'm always looking for opportunities to learn, grow, and take on new challenges.
 
 🎓 **Software Engineering Student**
 
