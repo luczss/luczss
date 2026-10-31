@@ -56,7 +56,7 @@ I enjoy turning ideas into functional systems and exploring different areas of t
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark"/>
 
 <br><br>
 
