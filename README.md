@@ -1,18 +1,17 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:00E5FF&text=LUCAS%20OLIVEIRA&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descColor=00E5FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,55:18243A,100:6D5DFB&text=LUCAS%20OLIVEIRA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descColor=67E8F9&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+system...;%3E+Software+Engineering+Student;%3E+Backend+%7C+Artificial+Intelligence;%3E+Building.+Learning.+Improving.;%3E+System+online+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=%3E+Initializing+system...;%3E+Software+Engineering+Student;%3E+Backend+%7C+Artificial+Intelligence;%3E+Exploring+technology+and+innovation;%3E+Building.+Learning.+Improving.;%3E+System+online+%E2%9C%93"/>
 
 <br><br>
 
 <a href="https://github.com/luczss">
-<img src="https://img.shields.io/badge/GITHUB-luczss-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-luczss-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=luczss&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=luczss&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -21,32 +20,34 @@
 # `> whoami`
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   Lucas Oliveira                                         │
-│   ────────────────────────────────────────────────────   │
-│                                                          │
-│   🎓 Software Engineering Student                       │
-│   💻 Backend Development                                 │
-│   🤖 Artificial Intelligence                             │
-│   🧠 Problem Solving                                    │
-│   🚀 Continuous Learning                                │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   Lucas Oliveira                                           │
+│   ──────────────────────────────────────────────────────   │
+│                                                            │
+│   🎓 Software Engineering Student                         │
+│   💻 Backend Development                                   │
+│   🤖 Artificial Intelligence                               │
+│   🧠 Problem Solving                                      │
+│   🚀 Continuous Learning                                  │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ## 👨‍💻 About Me
 
 I'm a **Software Engineering student** passionate about technology, problem-solving, and building software solutions.
 
-My current focus is on **Backend Development and Artificial Intelligence**, while continuously expanding my knowledge through academic projects, experiments and hands-on development.
+My current focus is on **Backend Development and Artificial Intelligence**, while continuously expanding my knowledge through academic projects, experiments, and hands-on development.
 
-I enjoy turning ideas into functional systems and exploring different areas of technology — from web development and software engineering to **AI, embedded systems and intelligent monitoring**.
+I enjoy turning ideas into functional systems and exploring different areas of technology — from web development and software engineering to **AI, IoT, embedded systems, and intelligent monitoring**.
 
-🎓 Software Engineering Student
-💻 Focused on Backend Development and Artificial Intelligence
-🚀 Continuously learning and improving my skills
-🌎 Open to internships, collaborations, and new opportunities in Brazil and abroad
+- 🎓 Software Engineering Student
+- 💻 Focused on Backend Development and Artificial Intelligence
+- 🌐 Exploring Web Development and Software Architecture
+- 🤖 Interested in Artificial Intelligence and IoT
+- 🚀 Continuously learning and improving my skills
+- 🌎 Open to internships, collaborations, and new opportunities
 
 ---
 
@@ -60,103 +61,145 @@ I enjoy turning ideas into functional systems and exploring different areas of t
 
 <br><br>
 
-### Development & Tools
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind&theme=dark"/>
+
+<br><br>
+
+### Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Backend-00E5FF?style=for-the-badge&logo=serverfault&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-<img src="https://img.shields.io/badge/Edge%20Computing-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/Backend-6D5DFB?style=for-the-badge&logo=serverfault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-0E7490?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge%20Computing-18243A?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🛠️ Tools
+# 🛠️ Development Environment
 
-<div align="center">
-
-|   Development   |  Hardware | Workflow |
-| :-------------: | :-------: | :------: |
-|       Git       |  Arduino  |  GitHub  |
-|      GitHub     |  Sensors  |  VS Code |
-|     VS Code     | LCD / RTC |    Git   |
-| HTML / CSS / JS |   EEPROM  |   Wokwi  |
-
-</div>
+| Development | Hardware & IoT | Workflow |
+|:---:|:---:|:---:|
+| Git | ESP32 | GitHub |
+| VS Code | Arduino | Git |
+| React | Sensors | Wokwi |
+| Node.js | LCD / RTC | VS Code |
+| JavaScript | MQTT | GitHub Actions |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌌 GravityShield
+### 🌌 GravityShield
 
-> **Space health simulator developed to explore the effects of microgravity using exponential functions.**
+> Space health simulator developed to explore the effects of microgravity using exponential functions.
 
 A project combining programming and mathematical concepts to simulate a space-related scenario.
 
 **Concepts:**
+
 `Mathematics` `Simulation` `Software Development`
 
 ---
 
-## 🍷 Vinheria Agnello
+### 🍷 Vinheria Full
 
-> **Intelligent environmental monitoring system developed with Arduino and sensors.**
+> Intelligent IoT environmental monitoring platform for wine storage environments.
 
-The system monitors **temperature, humidity and luminosity** in real time.
+An integrated solution that monitors **temperature, humidity, and luminosity**, connecting physical devices to a web application through an IoT infrastructure.
 
-It includes:
+The project combines embedded systems, backend development, cloud communication, and data visualization.
 
-* 🌡️ Temperature monitoring
-* 💧 Humidity monitoring
-* 💡 Luminosity monitoring
-* 📟 Interactive LCD
-* 🚨 Intelligent alerts
-* 💾 EEPROM data logging
-* ⏱️ RTC time management
-* ⚙️ Automatic luminosity calibration
+**Main Features:**
+
+- 🌡️ Real-time environmental monitoring
+- 📡 ESP32 communication through MQTT
+- ☁️ FIWARE integration
+- 📊 Dashboard with maps and measurement charts
+- 📈 Historical measurement consultation
+- 🚨 Intelligent sensor alerts and triggers
+- 💡 Physical signaling using LED, buzzer, and LCD
+- 🖥️ Device management through a web application
 
 **Technologies:**
-`Arduino` `C/C++` `DHT22` `LDR` `RTC` `LCD` `EEPROM`
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/luczss/CP2-EDGE-COMPUTING)
+`ESP32` `C++` `MQTT` `FIWARE` `Node.js` `Express` `React` `Vite` `Python`
+
+<div align="center">
+
+<a href="https://github.com/luczss/Vinheria-Full">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+<a href="https://github.com/luczss/Vinheria-Full/blob/main/vinheria-full/docs/Manual_Vinheria_Full_CP5.docx">
+<img src="https://img.shields.io/badge/PROJECT%20MANUAL-18243A?style=for-the-badge&logo=microsoftword&logoColor=67E8F9"/>
+</a>
+
+</div>
 
 ---
 
-## 📸 SmartCam AI
+### 🌊 Snapflow
 
-> **AI-powered intelligent camera solution.**
+> Modern web development project built with React and Vite.
 
-Project focused on exploring the combination of **software development and Artificial Intelligence**.
+A frontend development project focused on building a web interface with a modern development stack.
 
-**Focus:**
-`AI` `Computer Vision` `Software Engineering`
+**Technologies:**
+
+`React` `JavaScript` `Vite` `Tailwind CSS` `React Router` `Lucide React`
+
+<div align="center">
+
+<a href="https://github.com/luczss/webfront-jovi">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+</div>
 
 ---
 
-## 🌐 GS-Web
+### 🌐 GS-Web
 
-> Web development project combining **HTML, CSS and JavaScript**.
+> Web development project combining HTML, CSS, and JavaScript.
 
-The repository currently contains a structured web project with a frontend architecture and multiple development iterations.
+A project focused on frontend development, interface structure, styling, and web programming concepts.
 
 **Technologies:**
 
 `HTML` `CSS` `JavaScript`
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/luczss/GS-Web)
+<div align="center">
+
+<a href="https://github.com/luczss/GS-Web">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+</div>
 
 ---
 
-## 📄 Currículo Frontend
+### 📄 Currículo Frontend
 
-> A frontend project created to practice **HTML, page structure and web development concepts**.
+> Frontend project created to practice HTML, page structure, and web development concepts.
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/luczss/curriculo-frontend)
+**Technologies:**
+
+`HTML` `CSS`
+
+<div align="center">
+
+<a href="https://github.com/luczss/curriculo-frontend">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+</div>
 
 ---
 
@@ -173,67 +216,36 @@ mode        : LEARNING
 → Backend Development
 → Artificial Intelligence
 → Software Engineering
-→ Programming Logic
 → Web Development
-→ Embedded Systems
-→ Problem Solving
+→ IoT & Embedded Systems
+→ Programming Logic
 
-[ NEXT ]
-→ Build more projects
-→ Improve technical skills
+[ OBJECTIVES ]
+→ Build more complex projects
+→ Improve software architecture skills
 → Explore new technologies
-→ Turn ideas into real solutions
+→ Develop intelligent solutions
+→ Turn ideas into real applications
 
 lucas@github:~$ _
 ```
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=luczss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&include_all_commits=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=luczss&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luczss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luczss&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luczss&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1"/>
 
 </div>
 
----
+<br><br>
 
-# 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luczss&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luczss&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution System
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luczss/luczss/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://streak-stats.demolab.com?user=luczss&hide_border=true&background=0B1020&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
@@ -244,37 +256,29 @@ lucas@github:~$ _
 <div align="center">
 
 <a href="https://github.com/luczss">
-<img src="https://img.shields.io/badge/GitHub-luczss-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-luczss-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
-<!-- Adicione aqui quando quiser:
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
--->
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                  SYSTEM STATUS: ONLINE                   ║
-║                                                          ║
-║              BUILD • LEARN • CREATE • REPEAT             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    SYSTEM STATUS: ONLINE                   ║
+║                                                            ║
+║              BUILD • LEARN • CREATE • REPEAT               ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-### *“Happiness is only real when shared.”*
+### *"Happiness is only real when shared."*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:111827,100:0D1117&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6D5DFB,50:18243A,100:0B1020&section=footer" width="100%"/>
 
 </div>
