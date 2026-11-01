@@ -106,6 +106,14 @@ A project combining programming and mathematical concepts to simulate a space-re
 
 `Mathematics` `Simulation` `Software Development`
 
+<div align="center">
+
+<a href="https://github.com/luczss/GS-Web">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+</div>
+
 ---
 
 ### 🍷 Vinheria Full
